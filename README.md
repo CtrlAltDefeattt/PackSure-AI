@@ -6,13 +6,13 @@
 
 Upload a package-label image, extract its declarations with OCR, validate them against transparent rules, and generate an inspection-ready report.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_PackSure_AI-1676B8?style=for-the-badge&logo=vercel&logoColor=white)](https://pack-sure-ai-lemon.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_PackSure_AI-1676B8?style=for-the-badge&logo=vercel&logoColor=white)](https://packsure.vercel.app/)
 [![SIH 2026](https://img.shields.io/badge/SIH_2026-SIH26034-F58220?style=for-the-badge)](https://www.sih.gov.in/)
 [![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tesseract.js](https://img.shields.io/badge/OCR-Tesseract.js-2E8B57?style=flat-square)](https://tesseract.projectnaptha.com/)
 
-[Live Demo](https://pack-sure-ai-lemon.vercel.app) · [Report an Issue](https://github.com/CtrlAltDefeattt/PackSure-AI/issues)
+[Live Demo](https://packsure.vercel.app/) · [Report an Issue](https://github.com/CtrlAltDefeattt/PackSure-AI/issues)
 
 </div>
 
