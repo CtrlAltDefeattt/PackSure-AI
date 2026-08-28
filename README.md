@@ -136,7 +136,7 @@ npm run lint
 
 ## Using the Prototype
 
-1. Open the [live demo](https://pack-sure-ai-lemon.vercel.app).
+1. Open the [live demo](https://packsure.vercel.app/).
 2. Click the upload area or use a phone camera to capture a clear label image.
 3. Wait for the browser OCR process to complete.
 4. Review the extracted declarations, verdicts, and confidence values.
